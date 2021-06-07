@@ -49,7 +49,11 @@ To install you will want to pull the entire QUALIFIER folder from github includi
     * Users Loan to Value Ratio must be less than or equal to the Lenders Maximum LTV Ratio
 5) The user will be informed of the number of Lenders that meet all of the criteria in step 4 and asked if they would like to save the list of lenders
 6) If the user selects "Yes" then they will be asked to name the file which will then be saved as a CSV in the **/data/output** file
+    ![Save_Yes_No](https://user-images.githubusercontent.com/84096312/120947160-aefb7600-c6f3-11eb-9f5b-2897be870ff6.png)
 7) If the user chooses not to save the data the application will close.
+8) Once the user has named their save file the application will confirm the name of the save file and close
+    ![Completed Project](https://user-images.githubusercontent.com/84096312/120947190-c3d80980-c6f3-11eb-83dd-e39b8fc02554.png)
+
 ---
 
 ## Usage
